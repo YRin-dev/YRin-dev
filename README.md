@@ -4,7 +4,7 @@
 
 
 I’m a full-stack software engineer who loves turning ideas into web & app products.  
-I care not only about **how things work**, but also **how they look and feel**.  
+I care not only about **how things work**, but also **how they look and feel**.😄  
 Clean layouts, intuitive interactions, and readable code are always important to me.
 
 
@@ -49,7 +49,7 @@ Clean layouts, intuitive interactions, and readable code are always important to
 
 *(This section is flexible — I’m always learning and trying new tools.)*
 
-### 🌱 Recently
+### 🌱🌱  Recently 🌱 🌱 
 
 - Working on full-stack projects
 - Exploring better ways to structure UI and component design  
